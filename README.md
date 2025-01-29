@@ -1,106 +1,100 @@
-<h1 align="center">🌟 Welcome to My World of Creativity 🌟</h1>
+<h1 align="center" style="font-family: 'Arial', sans-serif; font-size: 50px; color: #FF6F61;">
+  Hey there, I'm <strong>Hasan Mahmud</strong>! 👋
+</h1>
 
 <p align="center">
-  <img src=https://avatars.githubusercontent.com/u/57359405?v=4 alt="Profile Avatar" width="200" style="border-radius: 50%; border: 5px solid #6c5ce7; box-shadow: 0 0 15px rgba(108, 92, 231, 0.5);"/>
+  <img src=https://avatars.githubusercontent.com/u/57359405?v=4 alt="Profile Picture" width="200" style="border-radius: 50%; border: 6px solid #FF6F61; box-shadow: 0 0 25px rgba(255, 111, 97, 0.7);" />
 </p>
 
-<p align="center">
-  <b>💻 Frontend Developer | 🎨 Creative Designer | 🌈 Dreamer & Doer</b>
-</p>
+<h2 align="center" style="font-size: 30px; color: #333; font-family: 'Arial', sans-serif;">
+  Frontend Developer | Creative Technologist | Passionate Learner 🚀
+</h2>
+
+---
+
+## 🌟 About Me
+
+Hi! I am a passionate **Frontend Developer** who thrives on crafting elegant and intuitive user experiences. I enjoy building responsive and high-performance web applications that feel as great as they look. I'm constantly exploring new technologies and sharpening my skills.
+
+- 🌱 **Currently learning:** Advanced **React.js** and **TypeScript**.
+- 🛠️ **Skills:** HTML5, CSS3, JavaScript, React, TailwindCSS, Bootstrap, Git, and more.
+- 🎯 **Goal:** To create beautifully designed, fast, and user-centric applications.
+- 💡 **Fun fact:** I believe in simplicity—writing clean, maintainable code is my top priority.
+
+---
+
+## 🛠️ My Skills
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F39C12&center=true&vCenter=true&width=600&lines=I+Create+Beautiful+Web+Experiences!;Coding+with+Passion+and+Perfection!;Your+Next+Frontend+Expert!;Let's+Build+Something+Awesome!"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VsCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 </p>
 
 ---
 
-<h2 align="center">✨ About Me</h2>
-
+## 📊 GitHub Stats
 <p align="center">
-  Hey there! 👋 I’m a passionate **Frontend Developer** with a flair for crafting stunning, user-centric web applications. <br>
-  I thrive on **creativity**, **innovation**, and a relentless pursuit of excellence. 🚀  
-</p>
-
-<p align="center">
-  🌱 Currently sharpening my skills in **React.js**, **Tailwind CSS**, and **Next.js**. <br>
-  🎯 Aiming to master **modern web development** while contributing to impactful projects.  
-</p>
-
-<p align="center">
-  <b>"My mission is to transform ideas into reality with clean, efficient, and elegant code."</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=highcontrast&hide_title=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=highcontrast" alt="GitHub Streak" width="400" />
 </p>
 
 ---
 
-<h2 align="center">⚙️ My Toolbox</h2>
+## 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Code-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/Code-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Code-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Library-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
-  <img src="https://img.shields.io/badge/Framework-TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Backend-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Version_Control-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Editor-VS_Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Design-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</div>
+Here are a few of my exciting projects:
 
----
+### [📱 Project Name 1](https://github.com/your-github-username/project1)
+- **Description:** A sleek e-commerce website built using **React.js** and **TailwindCSS** for fast performance and a beautiful UI.
+- **Tech Stack:** React.js, TailwindCSS, JavaScript.
+- **Key Features:**
+  - Mobile-first responsive design
+  - Dynamic product listing and cart system
+  - User-friendly authentication flow
 
-<h2 align="center">📈 My GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" width="400"/>
-</div>
+### [🌐 Project Name 2](https://github.com/your-github-username/project2)
+- **Description:** A personal portfolio website to showcase my development skills and projects.
+- **Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap.
+- **Key Features:**
+  - Interactive animations
+  - Clean, modern UI
+  - Multi-section navigation
 
 ---
 
-<h2 align="center">🎨 Featured Projects</h2>
+## 📬 Let's Connect!
 
-<div align="center">
-  <h3>✨ Stunning Portfolio Website</h3>
-  <p>A responsive, modern portfolio showcasing my skills and projects. Built with **React** and **Tailwind CSS**.</p>
-  <a href="https://github.com/your-github-username/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Source_Code-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-  </a>
-
-  <h3>🛍️ E-Commerce Web App</h3>
-  <p>An elegant, user-friendly e-commerce platform powered by **React**, **Redux**, and **Firebase**.</p>
-  <a href="https://github.com/your-github-username/ecommerce" target="_blank">
-    <img src="https://img.shields.io/badge/Source_Code-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-  </a>
-</div>
-
----
-
-<h2 align="center">🌐 Connect with Me</h2>
+Feel free to reach out to me through the following:
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">🎯 Fun Fact</h2>
+## 🌱 Fun Facts
 
-<p align="center">
-  <b>"Coding is not just my skill, it's my superpower! 🔥"</b>
-</p>
+- 🎮 I love gaming! It helps me relax and think outside the box.
+- 🏋️‍♂️ I enjoy working out and staying healthy to fuel my mind and body.
+- 📚 I'm always reading tech blogs, learning new tools, and experimenting with new ideas.
 
-<p align="center">
-  ⭐️ **Star my repositories and follow me** to stay updated with awesome projects! ⭐️
-</p>
+---
+
+<h2 align="center" style="font-family: 'Arial', sans-serif; color: #FF6F61;">
+  Thanks for visiting my profile! Let's build something amazing together! 🚀
+</h2>
+<p align="center" style="color: #555;">Feel free to connect and collaborate! 🌟</p>
