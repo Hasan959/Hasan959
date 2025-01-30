@@ -85,15 +85,21 @@
 - 🌟 **Description:** A task management app with drag-and-drop functionality for teams.  
 - ⚙️ **Tech Stack:** React, Firebase, Tailwind CSS  
 - 🚀 **Live Demo:** [Click here](https://project-4-demo-link.com)
+  
+## 📚 Blogs
+
+### 🌟 Featured Blogs
+- [How to Get Started with React.js](https://your-blog-link.com/blog-post-1)  
+- [10 Tips for Becoming a Better Programmer](https://your-blog-link.com/blog-post-2)  
+- [Understanding Git and GitHub for Beginners](https://your-blog-link.com/blog-post-3)
 
 ---
-
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=highcontrast&hide_title=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=highcontrast" alt="GitHub Streak" width="400" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
-</div>
 
 ---
 
@@ -120,3 +126,5 @@
 ---
 
 > **⭐ If you like my work, don't forget to star my repositories!**
+
+
