@@ -85,7 +85,20 @@
 - 🌟 **Description:** A task management app with drag-and-drop functionality for teams.  
 - ⚙️ **Tech Stack:** React, Firebase, Tailwind CSS  
 - 🚀 **Live Demo:** [Click here](https://project-4-demo-link.com)
+
+ ## 🧠 **Problem Solving & Coding Challenges** 🧠
+
+I thrive on solving complex problems and building innovative solutions. I actively engage in problem-solving challenges on various platforms and am always up for tackling tough coding problems. Here's a glimpse into my problem-solving journey:
+
+### 💡 **Key Platforms:**
+- [LeetCode](https://leetcode.com/your-profile) - My profile where I practice algorithmic challenges and data structures.
+- [Codeforces](https://codeforces.com/profile/your-profile) - Solving competitive programming problems and improving my coding skills.
+- [HackerRank](https://www.hackerrank.com/your-profile) - Working on real-world problems with practical coding solutions.
   
+### 🔧 **Notable Solutions & Projects:**
+- [Algorithm to Solve Problem XYZ](https://github.com/your-repository) - A problem-solving approach for optimizing XYZ using algorithm ABC.
+- [Data Structure Solution for Problem ABC](https://github.com/your-repository) - Using efficient data structures to solve ABC problem.
+
 ## 📚 Blogs
 
 ### 🌟 Featured Blogs
@@ -94,37 +107,32 @@
 - [Understanding Git and GitHub for Beginners](https://your-blog-link.com/blog-post-3)
 
 ---
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=highcontrast&hide_title=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=highcontrast" alt="GitHub Streak" width="400" />
-</p>
+### 🔍 **My Approach:**
+I focus on breaking down complex problems into smaller, manageable chunks and applying optimal algorithms to solve them. I love learning new techniques and frameworks to build efficient solutions to everyday challenges.
+<h2 align="center">🔥 GitHub Highlights</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="200" style="margin: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200" style="margin: 10px;" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=tokyonight" alt="Profile Summary" width="800" />
+</div>
 
 
 ---
 
-## 🌈 Let's Connect
+## 🌐 **Connect with Me** 🌐  
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your-profile">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-</p>
-
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+🐦 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
+📧 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+💻 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-profile)  
+🌐 [![Portfolio](https://img.shields.io/badge/Portfolio-%23ff5722.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
 ---
 
-## 💡 Fun Fact
+## Let’s Connect and Build Something Amazing! 🤝
 
-> “The best way to predict the future is to invent it.” - Alan Kay
-
----
-
-> **⭐ If you like my work, don't forget to star my repositories!**
-
+I'm always open to exciting opportunities and collaborations. If you have a project in mind or want to contribute to open-source, feel free to reach out. Together, we can create something that leaves a lasting impact! 🌟
 
