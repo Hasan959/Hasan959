@@ -112,12 +112,16 @@ I focus on breaking down complex problems into smaller, manageable chunks and ap
 <h2 align="center">🔥 GitHub Highlights</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="200" style="margin: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasan959&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="200" style="margin: 10px;" />
+ ## 📊 **GitHub Stats** 📊  
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasan959&show_icons=true&theme=radical)](https://github.com/Hasan959)
+
+
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=tokyonight" alt="Profile Summary" width="800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasan959&theme=tokyonight" alt="Profile Summary" width="800" />
 </div>
 
 
