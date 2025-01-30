@@ -113,11 +113,6 @@ I focus on breaking down complex problems into smaller, manageable chunks and ap
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hasan959&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="200" style="margin: 10px;" />
- ## 📊 **GitHub Stats** 📊  
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasan959&show_icons=true&theme=radical)](https://github.com/Hasan959)
-
-
 </div>
 
 <div align="center">
