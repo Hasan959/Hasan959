@@ -1,4 +1,4 @@
-![GitHub Banner](https://github.com/Hasan959/Hasan959/blob/main/my%20banner.png)
+![GitHub Banner](https://github.com/Hasan959/Hasan959/blob/main/My%20github%20banner.png)
 
 <h1 align="center">👋 Hi there, I'm Hasan Mahmud!</h1>
 <h3 align="center">A Passionate Frontend Developer 🚀 | Lifelong Learner 🌟</h3>
