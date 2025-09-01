@@ -57,12 +57,12 @@
 
 <p align="center">
   <!-- 🌐 Portfolio Project -->
-  <a href="https://hasanmahmud-portfolio.netlify.app/" target="_blank">
+  <a href="https://hasanmahmud-portfolio.netlify.app/">
     <img align="center" src="https://raw.githubusercontent.com/Hasan959/MyPortfolio-Website/main/src/my-portfolio-image.png" width="400" />
   </a>
   
   <!-- 📂 GitHub Repo Card -->
-  <a href="https://hasanmahmud-portfolio.netlify.app/" target="_blank">
+  <a href="https://hasanmahmud-portfolio.netlify.app/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hasan959&repo=MyPortfolio-Website&theme=radical" />
   </a>
 </p>
