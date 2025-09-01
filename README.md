@@ -46,7 +46,7 @@
 ## 💻 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/your-username/project-1">
+  <a href="https://hasanmahmud-portfolio.netlify.app/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=radical" />
   </a>
   <a href="https://github.com/your-username/project-2">
