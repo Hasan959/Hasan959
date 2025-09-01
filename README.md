@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://hasanmahmud-portfolio.netlify.app/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=radical" />
+    <img align="center" src="https://hasanmahmud-portfolio.netlify.app/" />
   </a>
   <a href="https://github.com/your-username/project-2">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=radical" />
