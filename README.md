@@ -46,13 +46,28 @@
 ## 💻 Featured Projects
 
 <p align="center">
-  <a href=""https://github.com/Hasan959/MyPortfolio-Website"">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hasan959&repo=MyPortfolio-Website&theme=radical" />
+  <a href="https://hasanmahmud-portfolio.netlify.app/">
+    <img align="center" src="https://raw.githubusercontent.com/Hasan959/MyPortfolio-Website/main/src/screenshots/portfolio.png" width="400" />
   </a>
   <a href="https://github.com/your-username/project-2">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=radical" />
   </a>
 </p>
+
+
+<p align="center">
+  <!-- 🌐 Portfolio Project -->
+  <a href="https://hasanmahmud-portfolio.netlify.app/">
+    <img align="center" src="https://raw.githubusercontent.com/Hasan959/MyPortfolio-Website/main/src/my-portfolio-image.png" width="400" />
+  </a>
+  
+  <!-- 📂 GitHub Repo Card -->
+  <a href="https://hasanmahmud-portfolio.netlify.app/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hasan959&repo=MyPortfolio-Website&theme=radical" />
+  </a>
+</p>
+
+
 
 <p align="center">
   <a href="https://github.com/your-username/project-3">
