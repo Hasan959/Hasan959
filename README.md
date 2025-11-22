@@ -132,8 +132,14 @@ I focus on breaking down complex problems into smaller, manageable chunks and ap
 </div>
 
 <div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hasan959&theme=nightowl" alt="GitHub Streak" /></a>
+</div>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasan959&theme=tokyonight" alt="Profile Summary" width="800" />
 </div>
+
+
 
 
 ---
