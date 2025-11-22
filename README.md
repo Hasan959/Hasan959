@@ -118,7 +118,7 @@ I thrive on solving complex problems and building innovative solutions. I active
 ## 📚 Blogs
 
 ### 🌟 Featured Blogs
-- [How to Get Started with React.js](https://your-blog-link.com/blog-post-1)  
+- [Tech life Is Not Easy ](https://medium.com/@hasanmahmud.biddut/tech-life-isnt-easy-but-patience-builds-legends-74a9e5924e19)  
 - [10 Tips for Becoming a Better Programmer](https://your-blog-link.com/blog-post-2)  
 - [Understanding Git and GitHub for Beginners](https://your-blog-link.com/blog-post-3)
 
