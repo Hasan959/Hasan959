@@ -128,15 +128,23 @@ I focus on breaking down complex problems into smaller, manageable chunks and ap
 <h2 align="center">🔥 GitHub Highlights</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasan959&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="200" style="margin: 10px;" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Hasan959&cc=000&tc=fff&ic=fff" height="200" />
 </div>
-
+<!-- Streak Stats -->
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hasan959&theme=nightowl" alt="GitHub Streak" /></a>
-</div>
+<img 
+  src="https://streak-stats.vercel.app?user=Hasan959&theme=nightowl" 
+  height="200"
+/>
+</div
 
 
-</div>
+
+
+
+
+
+
 
 
 
