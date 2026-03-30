@@ -62,7 +62,12 @@
   
 </p>
 
-<span >💻 Source Code 🔗 <a href="https://github.com/Hasan959/MyPortfolio-Website" target="_blank">View on GitHub</a></span>
+<span>
+  💻 Source Code 🔗 
+  <a href="https://github.com/Hasan959/MyPortfolio-Website" target="_blank" rel="noopener noreferrer">
+    View on GitHub
+  </a>
+</span>
 
 
 
