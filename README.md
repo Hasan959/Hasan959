@@ -45,14 +45,7 @@
 
 ## 💻 Featured Projects
 
-<p align="center">
-  <a href="https://hasanmahmud-portfolio.netlify.app/">
-    <img align="center" src="https://raw.githubusercontent.com/Hasan959/MyPortfolio-Website/main/src/screenshots/portfolio.png" width="400" />
-  </a>
-  <a href="https://github.com/your-username/project-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=radical" />
-  </a>
-</p>
+
 
 
 <p align="center">
@@ -60,24 +53,18 @@
   <a href="https://hasanmahmud-portfolio.netlify.app/">
     <img align="center" src="https://raw.githubusercontent.com/Hasan959/MyPortfolio-Website/main/src/my-portfolio-image.png" width="400" />
   </a>
-  💻 Source Code: https://github.com/Hasan959/MyPortfolio-Website
+  
   
   <!-- 📂 GitHub Repo Card -->
   <a href="https://hasanmahmud-portfolio.netlify.app/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hasan959&repo=MyPortfolio-Website&theme=radical" />
   </a>
+  
 </p>
 
+<span >💻 Source Code 🔗 <a href="https://github.com/Hasan959/MyPortfolio-Website" target="_blank">View on GitHub</a></span>
 
 
-<p align="center">
-  <a href="https://github.com/your-username/project-3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-3&theme=radical" />
-  </a>
-  <a href="https://github.com/your-username/project-4">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-4&theme=radical" />
-  </a>
-</p>
 
 ---
 
